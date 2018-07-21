@@ -1,0 +1,15 @@
+.app-header {
+  background-color: #222;
+  padding: 16px;
+  color: white;
+}
+
+.app-title {
+  font-size: 1.5em;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 16px;
+    display: flex;
+}
